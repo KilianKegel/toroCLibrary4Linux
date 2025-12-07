@@ -1,0 +1,32 @@
+# 
+#   Copyright (c) 2020-2025, Kilian Kegel. All rights reserved.<BR>
+#   SPDX-License-Identifier: BSD-2-Clause-Patent
+# 
+[Defines]
+	INF_VERSION         = 1.26
+	BASE_NAME           = CdeServicesDxe
+	FILE_GUID           = CDE00010-3ACF-44D4-8CB0-346038232B97
+	MODULE_TYPE         = DXE_DRIVER
+	VERSION_STRING      = 0.5
+#	ENTRY_POINT			= CdeServicesDxeEntryPoint
+    ENTRY_POINT                 = _Main
+    IMAGE_ENTRY_POINT           = _Main
+
+[Sources]
+    CdeServicesDxe.c
+
+[Packages]
+    MdePkg/MdePkg.dec
+    CdePkg/CdePkg.dec
+
+[LibraryClasses]
+    CdeLib
+
+[Depex.X64]
+    TRUE
+[Depex.IA32]
+    gEfiStatusCodeRuntimeProtocolGuid
+
+[BuildOptions] 
+    MSFT:*_*_IA32_CC_FLAGS   = /GL- /Ob1 /Oi- /D "CDEABI=__declspec(dllimport)" /D "CDE_CONFIGURATION_STRING=\"EDK2 UEFI PEI\"" /D "CDE_PLATFORM_STRING=\"x86-32\""
+    MSFT:*_*_X64_CC_FLAGS    = /GL- /Ob1 /Oi- /D "CDEABI=__declspec(dllimport)" /D "CDE_CONFIGURATION_STRING=\"EDK2 UEFI PEI\"" /D "CDE_PLATFORM_STRING=\"x86-64\""

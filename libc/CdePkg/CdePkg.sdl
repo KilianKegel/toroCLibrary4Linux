@@ -1,0 +1,99 @@
+TOKEN
+    Name  = "CdePkg_SUPPORT"
+    Value  = "1"
+    Help  = "Main switch to enable CdePkg support in Project"
+    TokenType = Boolean
+    TargetEQU = Yes
+    TargetMAK = Yes
+    Master = Yes
+End
+
+INFComponent
+    Name  = "CdeLib"
+    File  = "CdeLib/CdeLib.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "BASE"
+End
+
+INFComponent
+    Name  = "CdeLibNull"
+    File  = "CdeLib/CdeLibNull.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "BASE"
+End
+
+INFComponent
+    Name  = "CdeServicesPei"
+    File  = "CdeServices/CdeServicesPei.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32"
+    ModuleTypes  = "PEIM"
+End
+
+INFComponent
+    Name  = "CdeServicesDxe"
+    File  = "CdeServices/CdeServicesDxe.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "DXE_DRIVER"
+End
+
+INFComponent
+    Name  = "CdeWelcomeDxe"
+    File  = "CdeWelcome/buildDXE.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "DXE_DRIVER"
+End
+
+INFComponent
+    Name  = "CdeServicesSmm"
+    File  = "CdeServices/CdeServicesSmm.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "DXE_SMM_DRIVER"
+End
+
+INFComponent
+    Name  = "CdeWelcomeSmm"
+    File  = "CdeWelcome/buildSMM.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "DXE_SMM_DRIVER"
+End
+
+INFComponent
+    Name  = "CdeWelcomePei"
+    File  = "CdeWelcome/buildPEI.inf"
+    Package  = "CdePkg"
+    Arch  = "IA32 X64"
+    ModuleTypes  = "PEIM"
+End
+
+LibraryMapping
+    Class  = "CdeLib"
+    Instance  = "CdePkg.CdeLib"
+    Arch  = "IA32 X64"
+End
+
+LibraryMapping
+    Class  = "CdeLibNull"
+    Instance  = "CdePkg.CdeLibNull"
+    Arch  = "IA32 X64"
+End
+
+FFS_FILE
+    Name  = "CdeServicesPei"
+    FD_AREA  = "FV_BB"
+    INFComponent  = "CdePkg.CdeServicesPei"
+    Apriori_Index  = "0"
+End
+
+FFS_FILE
+    Name  = "CdeServicesDxe"
+    FD_AREA  = "FV_Main"
+    INFComponent  = "CdePkg.CdeServicesDxe"
+    Apriori_Index  = "0"
+End

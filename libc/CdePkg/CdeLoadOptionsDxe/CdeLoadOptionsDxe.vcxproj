@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="native(CdeLoadOptionsDxe)|Win32">
+      <Configuration>native(CdeLoadOptionsDxe)</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="native(CdeLoadOptionsDxe)|x64">
+      <Configuration>native(CdeLoadOptionsDxe)</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{6a9608db-e447-40ea-b6d7-98cb33a5d2a3}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>CdeLoadOptionsDxe</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>CdeLoadOptionsDxe</ProjectName>
+    <ProjectTypeGuids>{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}</ProjectTypeGuids>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>NotSet</CharacterSet>
+    <SpectreMitigation>false</SpectreMitigation>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>false</WholeProgramOptimization>
+    <CharacterSet>NotSet</CharacterSet>
+    <SpectreMitigation>false</SpectreMitigation>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|x64'">
+    <LinkIncremental />
+    <TargetExt>.EFI</TargetExt>
+    <OutDir>$(SolutionDir)CdePkg\build\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+    <GenerateManifest />
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|Win32'">
+    <LinkIncremental />
+    <TargetExt>.EFI</TargetExt>
+    <OutDir>$(SolutionDir)CdePkg\build\$(Platform)\$(Configuration)\</OutDir>
+    <IntDir>$(Platform)\$(Configuration)\</IntDir>
+    <GenerateManifest />
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>MinSpace</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE</PreprocessorDefinitions>
+      <ConformanceMode>
+      </ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)CdePkg\Include\;$(SolutionDir)CdePkg\Include\VS2019;$(SolutionDir)Edk2\MdePkg\Include;$(SolutionDir)Edk2\MdePkg\Include\x64</AdditionalIncludeDirectories>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <StringPooling>true</StringPooling>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <CompileAs>Default</CompileAs>
+      <PrecompiledHeaderFile>
+      </PrecompiledHeaderFile>
+      <PrecompiledHeaderOutputFile>
+      </PrecompiledHeaderOutputFile>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <OmitFramePointers>true</OmitFramePointers>
+      <TreatWChar_tAsBuiltInType>false</TreatWChar_tAsBuiltInType>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <AssemblerOutput>NoListing</AssemblerOutput>
+      <DisableSpecificWarnings>4005;4100;4101;4189;4456;4706;4996</DisableSpecificWarnings>
+      <FavorSizeOrSpeed />
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <DiagnosticsFormat />
+      <BasicRuntimeChecks />
+    </ClCompile>
+    <Link>
+      <SubSystem>EFI Boot Service Driver</SubSystem>
+      <EnableCOMDATFolding>
+      </EnableCOMDATFolding>
+      <OptimizeReferences>
+      </OptimizeReferences>
+      <GenerateDebugInformation>
+      </GenerateDebugInformation>
+      <UACExecutionLevel>
+      </UACExecutionLevel>
+      <UACUIAccess>
+      </UACUIAccess>
+      <MapFileName>
+      </MapFileName>
+      <MapExports>
+      </MapExports>
+      <LinkTimeCodeGeneration>
+      </LinkTimeCodeGeneration>
+      <TypeLibraryResourceID>
+      </TypeLibraryResourceID>
+      <RandomizedBaseAddress>
+      </RandomizedBaseAddress>
+      <AdditionalOptions>
+      </AdditionalOptions>
+      <AdditionalDependencies>$(SolutionDir)CdePkg\toroC64.lib</AdditionalDependencies>
+      <GenerateMapFile>true</GenerateMapFile>
+      <EntryPointSymbol>_Main</EntryPointSymbol>
+      <EnableUAC>
+      </EnableUAC>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <OutputFile>$(OutDir)$(TargetName).efi</OutputFile>
+      <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
+      <SectionAlignment>32</SectionAlignment>
+      <Driver>Driver</Driver>
+      <ManifestFile />
+      <AllowIsolation />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>MinSpace</Optimization>
+      <FunctionLevelLinking>false</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE</PreprocessorDefinitions>
+      <ConformanceMode>
+      </ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)CdePkg\Include\;$(SolutionDir)CdePkg\Include\VS2019;$(SolutionDir)Edk2\MdePkg\Include;$(SolutionDir)Edk2\MdePkg\Include\x64</AdditionalIncludeDirectories>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <StringPooling>true</StringPooling>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <BufferSecurityCheck>false</BufferSecurityCheck>
+      <CompileAs>Default</CompileAs>
+      <PrecompiledHeaderFile>
+      </PrecompiledHeaderFile>
+      <PrecompiledHeaderOutputFile>
+      </PrecompiledHeaderOutputFile>
+      <ExceptionHandling>
+      </ExceptionHandling>
+      <OmitFramePointers>true</OmitFramePointers>
+      <TreatWChar_tAsBuiltInType>false</TreatWChar_tAsBuiltInType>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <AssemblerOutput>NoListing</AssemblerOutput>
+      <DisableSpecificWarnings>4005;4100;4101;4189;4456;4706;4996</DisableSpecificWarnings>
+      <FavorSizeOrSpeed>
+      </FavorSizeOrSpeed>
+      <DebugInformationFormat>None</DebugInformationFormat>
+      <DiagnosticsFormat>
+      </DiagnosticsFormat>
+      <BasicRuntimeChecks>
+      </BasicRuntimeChecks>
+    </ClCompile>
+    <Link>
+      <SubSystem>EFI Boot Service Driver</SubSystem>
+      <EnableCOMDATFolding>
+      </EnableCOMDATFolding>
+      <OptimizeReferences>
+      </OptimizeReferences>
+      <GenerateDebugInformation>
+      </GenerateDebugInformation>
+      <UACExecutionLevel>
+      </UACExecutionLevel>
+      <UACUIAccess>
+      </UACUIAccess>
+      <MapFileName>
+      </MapFileName>
+      <MapExports>
+      </MapExports>
+      <LinkTimeCodeGeneration>
+      </LinkTimeCodeGeneration>
+      <TypeLibraryResourceID>
+      </TypeLibraryResourceID>
+      <RandomizedBaseAddress>
+      </RandomizedBaseAddress>
+      <AdditionalOptions>
+      </AdditionalOptions>
+      <AdditionalDependencies>$(SolutionDir)CdePkg\toroC32.lib</AdditionalDependencies>
+      <GenerateMapFile>true</GenerateMapFile>
+      <EntryPointSymbol>_Main</EntryPointSymbol>
+      <EnableUAC>
+      </EnableUAC>
+      <DataExecutionPrevention>
+      </DataExecutionPrevention>
+      <OutputFile>$(OutDir)$(TargetName).efi</OutputFile>
+      <IgnoreAllDefaultLibraries>true</IgnoreAllDefaultLibraries>
+      <SectionAlignment>32</SectionAlignment>
+      <Driver>Driver</Driver>
+      <ManifestFile>
+      </ManifestFile>
+      <AllowIsolation>
+      </AllowIsolation>
+      <ImageHasSafeExceptionHandlers />
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="CdeLoadOptionsDxe.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CdeLoadOptionsDxe.inf" />
+    <None Include="__cdeGetCurrentPrivilegeLevel32.asm">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|x64'">true</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='native(CdeLoadOptionsDxe)|Win32'">true</ExcludedFromBuild>
+    </None>
+    <None Include="__cdeGetCurrentPrivilegeLevel64.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Include\CDE.h" />
+    <ClInclude Include="..\Include\CdeLoadOptions.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

@@ -1,0 +1,23 @@
+<component>
+    name = "CdePkg"
+    category = eCore
+    LocalRoot = "CdePkg\"
+    RefName = "CdePkg"
+ [INF]
+    "CdeLib\CdeLib.inf"
+    "CdeLib\CdeLibNull.inf"
+     "CdeServices\CdeServicesPei.inf"
+    "CdeServices\CdeServicesDxe.inf"
+    "CdeServices\CdeServicesSmm.inf"
+    "CdeWelcome\buildPEI.inf"
+    "CdeWelcome\buildDXE.inf"
+    "CdeWelcome\buildSMM.inf"
+ [files]
+    "CdePkg.sdl"
+    "CdePkg.dec"
+    "CdePkg.dsc"
+[parts]
+    "toroCLibraryRELEASE"
+    "toroCLibraryDEBUG"
+    "standardHeader"
+<endComponent>
