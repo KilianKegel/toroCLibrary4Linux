@@ -142,8 +142,6 @@ extern _PVFV* __xp_a; // C pre-terminators (first)
 extern _PVFV* __xp_z; // C pre-terminators (last)
 extern _PVFV* __xt_a; // C terminators (first)
 extern _PVFV* __xt_z; // C terminators (last)
-extern int _initterm_e(_PIFV* pfbegin, _PIFV* pfend);
-extern void _initterm(_PVFV* pfbegin, _PVFV* pfend);
 
 extern int main(int argc, char** argv);
 extern EFI_STATUS EFIAPI OemHookStatusCodeInitialize(void);

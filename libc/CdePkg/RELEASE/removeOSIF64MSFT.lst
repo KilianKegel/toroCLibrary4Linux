@@ -1,3 +1,18 @@
+/REMOVE:x64\Release\osifLinuxCmdExec.obj
+/REMOVE:x64\Release\osifLinuxEntryPointIntern.obj
+/REMOVE:x64\Release\osifLinuxFileClose.obj
+/REMOVE:x64\Release\osifLinuxFileDelete.obj
+/REMOVE:x64\Release\osifLinuxFileOpen.obj
+/REMOVE:x64\Release\osifLinuxFileRead.obj
+/REMOVE:x64\Release\osifLinuxFileRename.obj
+/REMOVE:x64\Release\osifLinuxFileSetPos.obj
+/REMOVE:x64\Release\osifLinuxFileWrite.obj
+/REMOVE:x64\Release\osifLinuxGetEnv.obj
+/REMOVE:x64\Release\osifLinuxGetTime.obj
+/REMOVE:x64\Release\osifLinuxGetTsc.obj
+/REMOVE:x64\Release\osifLinuxGetTscPerSec.obj
+/REMOVE:x64\Release\osifLinuxMemAlloc.obj
+/REMOVE:x64\Release\osifLinuxMemFree.obj
 /REMOVE:x64\Release\osifUefiShellDrvEntryPoint.obj
 /REMOVE:x64\Release\osifUefiShellDrvEntryPointEDK.obj
 /REMOVE:x64\Release\osifUefiDxeEntryPoint.obj
@@ -58,3 +73,4 @@
 /REMOVE:x64\Release\osifWinNTGetTscPerSec.obj
 /REMOVE:x64\Release\osifWinNTMemAlloc.obj
 /REMOVE:x64\Release\osifWinNTMemFree.obj
+/REMOVE:x64\Release\osifLinuxEntryPoint.obj

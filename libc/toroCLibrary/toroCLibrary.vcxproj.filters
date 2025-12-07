@@ -721,6 +721,21 @@
     <ClCompile Include="LibAssist\__inbyte.c" />
     <ClCompile Include="LibAssist\__indword.c" />
     <ClCompile Include="LibAssist\__inword.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxCmdExec.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxEntryPointIntern.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileClose.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileDelete.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileOpen.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileRead.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileRename.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileSetPos.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileWrite.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetEnv.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetTime.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetTsc.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetTscPerSec.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxMemAlloc.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxMemFree.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Include\CdeServices.h" />
@@ -781,6 +796,9 @@
     <MASM Include="Library\math_h\__cde80387FINIT64.asm" />
     <MASM Include="Library\math_h\__cde80387FMULP32.asm" />
     <MASM Include="Library\math_h\__cde80387FMULP64.asm" />
+    <MASM Include="OSInterface\LINUX\__restore_rt.asm" />
+    <MASM Include="OSInterface\LINUX\_syscall64.asm" />
+    <MASM Include="OSInterface\LINUX\osifLinuxEntryPoint.asm" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\README.md" />

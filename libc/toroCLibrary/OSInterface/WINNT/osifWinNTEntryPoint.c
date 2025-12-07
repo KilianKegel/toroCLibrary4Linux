@@ -161,7 +161,7 @@ static BOOL WINAPI WinNTCtrlCHandlerRoutine(_In_ DWORD dwCtrlType) {
     return CTRL_C_EVENT == dwCtrlType;
 }
 
-void __CdeChkCtrlC(void) {
+static void __CdeChkCtrlC(void) {
 
     if (1 == fCtrl_C) {
 

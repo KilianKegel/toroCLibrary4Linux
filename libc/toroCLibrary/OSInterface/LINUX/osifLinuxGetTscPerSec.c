@@ -31,7 +31,7 @@ extern int64_t  _syscall(int64_t nr, int64_t a1, int64_t a2, int64_t a3, int64_t
 
 **/
 
-uint64_t _osifLinuxGetTscPerSec(CDE_APP_IF* pCdeAppIf) {
+uint64_t _osifLinuxGetTscPerSec(CDE_APP_IF* pCdeAppIf, unsigned short port) {
 
     return 1000000;
 }

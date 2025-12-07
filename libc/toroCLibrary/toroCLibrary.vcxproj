@@ -950,6 +950,21 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
     </ClInclude>
+    <ClCompile Include="OSInterface\LINUX\osifLinuxCmdExec.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxEntryPointIntern.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileClose.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileDelete.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileOpen.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileRead.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileRename.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileSetPos.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxFileWrite.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetEnv.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetTime.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetTsc.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxGetTscPerSec.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxMemAlloc.c" />
+    <ClCompile Include="OSInterface\LINUX\osifLinuxMemFree.c" />
     <ClCompile Include="OSInterface\UEFISHELLDRV\osifUefiShellDrvEntryPoint.c">
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">CDEABI=__declspec(noinline);MDEPKG_NDEBUG;NMOFINE;NDEBUG;NCDETRACE;_CRT_SECURE_NO_WARNINGS;_NO_CRT_STDIO_INLINE;CDE_MODULE_NAME="$(TargetName)"</PreprocessorDefinitions>
     </ClCompile>
@@ -1510,6 +1525,9 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</ExcludedFromBuild>
       <DeploymentContent Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</DeploymentContent>
     </MASM>
+    <MASM Include="OSInterface\LINUX\osifLinuxEntryPoint.asm" />
+    <MASM Include="OSInterface\LINUX\_syscall64.asm" />
+    <MASM Include="OSInterface\LINUX\__restore_rt.asm" />
     <None Include="Tools\PostBuildEvent.bat" />
     <None Include="Tools\PreBuildEvent.bat" />
   </ItemGroup>

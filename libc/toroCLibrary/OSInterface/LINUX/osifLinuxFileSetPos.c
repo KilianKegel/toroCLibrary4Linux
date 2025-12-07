@@ -34,7 +34,7 @@ extern int      __cdeBiasCdeFposType(fpos_t fpos);
 int _osifLinuxFileSetPos(IN CDE_APP_IF* pCdeAppIf, CDEFILE* pCdeFile, CDEFPOS_T* pos) {
 
     bool f = 1;
-    fpos_t eofpos = 0LL, newpos = __cdeOffsetCdeFposType(pos->fpos64);
+    fpos_t /*eofpos = 0LL,*/ newpos = __cdeOffsetCdeFposType(pos->fpos64);
     uint32_t dwMoveMethod = __cdeBiasCdeFposType(pos->fpos64);
 
     do {
