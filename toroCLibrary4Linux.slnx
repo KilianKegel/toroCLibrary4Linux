@@ -1,0 +1,15 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="helloLinux.c" />
+    <File Path="LAUNCH.bat" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="libc/toroCLibrary/toroCLibrary.vcxproj" Id="8c250c8a-c234-450d-83ed-f0c898e1a739" />
+  <Project Path="torito-LINK/torito-LINK.vcxproj" Id="55df9829-6366-4e46-aa8f-a36878c76770">
+    <Platform Project="x64" />
+  </Project>
+</Solution>

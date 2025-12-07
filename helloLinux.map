@@ -1,0 +1,1468 @@
+Archive member included to satisfy reference by file (symbol)
+
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPoint.obj)
+                              (_cdeCRT0Linux)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPoint.obj) (_osifLinuxEntryPointIntern)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBuffer.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (__cdeGetIOBuffer)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (__imp_fwrite)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+                              /mnt/b/toroCLibrary4Linux/helloLinux.obj (fprintf)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (__imp_fgetc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigDfl.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeSigDflt)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (__imp_raise)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeLconv_C)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreWcsStrTok)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeWcsStrPbrkSpn)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreVwxScanf)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj) (ComputeFieldSize)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeMemStrxCpy)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeMemStrxCmp)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreMemRealloc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreFwrite)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreFsetpos)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreFread)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_cdeCoreFflush)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj) (_cdeUMUL128)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_CdeDbgPutChar)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj) (_CdeDbgCOMSend)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj) (_CdeDbgCOMReady2Send)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj) (_CdeDbgCOMInit)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+                              /mnt/b/toroCLibrary4Linux/helloLinux.obj (__acrt_iob_func)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj) (pinvalid_parameter_handlerCDEABI)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_fltused.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj) (_fltused)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetCurrentPrivilegeLevel64.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj) (__cdeGetCurrentPrivilegeLevel)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemFree.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxMemFree)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxMemAlloc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTscPerSec.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxGetTscPerSec)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxGetTsc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxGetTime)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetEnv.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxGetEnv)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileWrite)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileSetPos)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileRename)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileRead)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileOpen)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileDelete)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj) (_osifLinuxFileClose)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/WcsLenCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj) (__imp_wcslen)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj) (_localtime64)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrLenCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj) (__imp_strlen)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj) (__imp_strcmp)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj) (__imp_memset)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigDfl.obj) (_cdeAbort)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/wcstombsCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj) (__imp_wcstombs)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdereallocCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj) (__cdereallocCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj) (__imp__exit)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj) (__imp_malloc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj) (__imp_free)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj) (__imp_abort)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBufferCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj) (__cdeGetIOBufferCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj) (__cdeIsFilePointerCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj) (__cdeOffsetCdeFposType)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj) (__cdeBiasCdeFposType)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj) (vfprintf)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj) (__cderewindCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj) (__imp_fread)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj) (fputc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj) (__imp_fprintf)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigIgn.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj) (_cdeSigIgn)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSig2idx.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj) (_cdeSig2idx)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_dsign.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj) (_dsign)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj) (__cdeOnErrSet_errnoCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj) (_errnoCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj) (__imp__errno)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj) (_errno)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj) (__imp_isxdigit)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isspaceCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj) (__imp_isspace)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isdigitCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj) (__imp_isdigit)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj) (_cdeCoreSprintf)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_gCdeCfgCmdLnParmReportStatusCodeSTDOUT.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj) (_gCdeCfgCmdLnParmReportStatusCodeSTDOUT)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeOUTByte.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj) (_cdeOUTByte)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeMemPutChar.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj) (_CdeMemPutChar)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeINByte.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj) (_cdeINByte)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_funcCORE.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBufferCORE.obj) (__acrt_iob_funcCORE)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/longjmp64CDEINTRINABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj) (longjmp)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_syscall64.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj) (_syscall)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj) (_cdeGmltime)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj) (_cdeDay2Greg)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj) (__imp__cdeREALLOC)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj) (__imp_exit)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsCdeFposType.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj) (__cdeIsCdeFposType)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj) (__imp_vfprintf)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj) (fwrite)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj) (__imp_fputc)
+/mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGreg2Day.obj)
+                              /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj) (_cdeGreg2Day)
+
+Allocating common symbols
+Common symbol       size              file
+
+__cdeMemSetCDEINTRINABIAnchor
+                    0x1               /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+
+Discarded input sections
+
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/helloLinux.obj
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/helloLinux.obj
+ .drectve       0x0000000000000000       0x42 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .voltbl        0x0000000000000000        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .chks64        0x0000000000000000       0xa8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBuffer.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBuffer.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigDfl.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigDfl.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+ .rdata         0x0000000000000000        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+ .chks64        0x0000000000000000       0x48 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .chks64        0x0000000000000000       0x90 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .rdata         0x0000000000000000        0x1 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .rdata         0x0000000000000000        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .chks64        0x0000000000000000      0x250 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ .chks64        0x0000000000000000       0x40 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+ .chks64        0x0000000000000000       0x48 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_fltused.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_fltused.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemFree.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemFree.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTscPerSec.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTscPerSec.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetEnv.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetEnv.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+ .chks64        0x0000000000000000       0xb0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/WcsLenCDEABI.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/WcsLenCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrLenCDEABI.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrLenCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+ .voltbl        0x0000000000000000        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/wcstombsCDEABI.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/wcstombsCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdereallocCORE.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdereallocCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+ .chks64        0x0000000000000000       0x40 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBufferCORE.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBufferCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigIgn.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigIgn.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSig2idx.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSig2idx.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_dsign.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_dsign.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCORE.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isspaceCDEABI.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isspaceCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isdigitCDEABI.obj)
+ .chks64        0x0000000000000000       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isdigitCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_gCdeCfgCmdLnParmReportStatusCodeSTDOUT.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_gCdeCfgCmdLnParmReportStatusCodeSTDOUT.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeOUTByte.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeOUTByte.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeMemPutChar.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeMemPutChar.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeINByte.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeINByte.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_funcCORE.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_funcCORE.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsCdeFposType.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsCdeFposType.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+ .chks64        0x0000000000000000       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+ .chks64        0x0000000000000000       0x38 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+ .drectve       0x0000000000000000       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGreg2Day.obj)
+ .chks64        0x0000000000000000       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGreg2Day.obj)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000400000                PROVIDE (__executable_start = SEGMENT_START ("text-segment", 0x400000))
+                0x0000000000400120                . = (SEGMENT_START ("text-segment", 0x400000) + SIZEOF_HEADERS)
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+
+.rela.plt       0x0000000000400120        0x0
+ *(.rela.plt)
+                [!provide]                        PROVIDE (__rela_iplt_start = .)
+ *(.rela.iplt)
+                [!provide]                        PROVIDE (__rela_iplt_end = .)
+                0x0000000000401000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *(.gnu.warning)
+
+.text$mn        0x0000000000401000     0x5a7b
+ .text$mn       0x0000000000401000       0x2d /mnt/b/toroCLibrary4Linux/helloLinux.obj
+                0x0000000000401000                main
+ *fill*         0x000000000040102d        0x3 
+ .text$mn       0x0000000000401030        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPoint.obj)
+                0x0000000000401030                _cdeCRT0Linux
+ .text$mn       0x000000000040103c       0xbf /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x000000000040103c                __cdeGetAppIf
+                0x00000000004010dc                _GetCdeAppIf
+                0x00000000004010f8                _osifLinuxEntryPointIntern
+ *fill*         0x00000000004010fb        0x1 
+ .text$mn       0x00000000004010fc       0x25 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ *fill*         0x0000000000401121        0x3 
+ .text$mn       0x0000000000401124        0x5 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBuffer.obj)
+                0x0000000000401124                __cdeGetIOBuffer
+ *fill*         0x0000000000401129        0x3 
+ .text$mn       0x000000000040112c       0x3e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+ *fill*         0x000000000040116a        0x2 
+ .text$mn       0x000000000040116c       0x21 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+                0x000000000040116c                fprintf
+ *fill*         0x000000000040118d        0x3 
+ .text$mn       0x0000000000401190       0x51 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+ *fill*         0x00000000004011e1        0x3 
+ .text$mn       0x00000000004011e4        0x5 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigDfl.obj)
+                0x00000000004011e4                _cdeSigDflt
+ *fill*         0x00000000004011e9        0x3 
+ .text$mn       0x00000000004011ec       0x86 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+ *fill*         0x0000000000401272        0x2 
+ .text$mn       0x0000000000401274       0xde /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+                0x0000000000401274                _cdeCoreWcsStrTok
+ *fill*         0x0000000000401352        0x2 
+ .text$mn       0x0000000000401354      0x117 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+                0x0000000000401354                _cdeWcsStrPbrkSpn
+ *fill*         0x000000000040146b        0x1 
+ .text$mn       0x000000000040146c      0xd9d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+                0x000000000040146c                _cdeCoreVwxScanf
+ *fill*         0x0000000000402209        0x3 
+ .text$mn       0x000000000040220c       0x29 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ *fill*         0x0000000000402235        0x3 
+ .text$mn       0x0000000000402238       0x78 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .text$mn       0x00000000004022b0       0x6c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .text$mn       0x000000000040231c       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .text$mn       0x000000000040233c       0x25 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ *fill*         0x0000000000402361        0x3 
+ .text$mn       0x0000000000402364      0x4c6 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ *fill*         0x000000000040282a        0x2 
+ .text$mn       0x000000000040282c     0x13cd /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x000000000040282c                _cdeCoreVwxPrintf
+                0x0000000000403bb0                ComputeFieldSize
+                0x0000000000403bf4                ydes
+ *fill*         0x0000000000403bf9        0x3 
+ .text$mn       0x0000000000403bfc       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .text$mn       0x0000000000403c10       0x64 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .text$mn       0x0000000000403c74       0x13 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ *fill*         0x0000000000403c87        0x1 
+ .text$mn       0x0000000000403c88       0x40 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .text$mn       0x0000000000403cc8       0xd8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .text$mn       0x0000000000403da0       0xee /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ *fill*         0x0000000000403e8e        0x2 
+ .text$mn       0x0000000000403e90       0x4e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ *fill*         0x0000000000403ede        0x2 
+ .text$mn       0x0000000000403ee0      0x465 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ *fill*         0x0000000000404345        0x3 
+ .text$mn       0x0000000000404348      0x146 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ *fill*         0x000000000040448e        0x2 
+ .text$mn       0x0000000000404490       0xaa /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ *fill*         0x000000000040453a        0x2 
+ .text$mn       0x000000000040453c       0xd5 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+                0x000000000040453c                _cdeMemStrxCpy
+ *fill*         0x0000000000404611        0x3 
+ .text$mn       0x0000000000404614      0x12b /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+                0x0000000000404614                _cdeMemStrxCmp
+ *fill*         0x000000000040473f        0x1 
+ .text$mn       0x0000000000404740      0x396 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+                0x0000000000404740                _cdeCoreMemRealloc
+ *fill*         0x0000000000404ad6        0x2 
+ .text$mn       0x0000000000404ad8       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ *fill*         0x0000000000404b07        0x1 
+ .text$mn       0x0000000000404b08      0x279 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+                0x0000000000404b08                _cdeCoreFwrite
+ *fill*         0x0000000000404d81        0x3 
+ .text$mn       0x0000000000404d84      0x16e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+                0x0000000000404d84                _cdeCoreFsetpos
+ *fill*         0x0000000000404ef2        0x2 
+ .text$mn       0x0000000000404ef4      0x2bb /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+                0x0000000000404ef4                _cdeCoreFread
+ *fill*         0x00000000004051af        0x1 
+ .text$mn       0x00000000004051b0       0x88 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+                0x00000000004051b0                _cdeCoreFflush
+ .text$mn       0x0000000000405238       0x57 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+                0x0000000000405238                _cdeUMUL128
+ *fill*         0x000000000040528f        0x1 
+ .text$mn       0x0000000000405290      0x208 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+                0x0000000000405290                _CdeDbgPutChar
+ .text$mn       0x0000000000405498       0x67 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+                0x0000000000405498                _CdeDbgCOMSend
+ *fill*         0x00000000004054ff        0x1 
+ .text$mn       0x0000000000405500       0x77 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+                0x0000000000405500                _CdeDbgCOMReady2Send
+ *fill*         0x0000000000405577        0x1 
+ .text$mn       0x0000000000405578      0x2bc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+                0x0000000000405578                _CdeDbgCOMInit
+ .text$mn       0x0000000000405834       0x3b /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+                0x0000000000405834                __acrt_iob_func
+ *fill*         0x000000000040586f        0x1 
+ .text$mn       0x0000000000405870       0x6a /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+ *fill*         0x00000000004058da        0x6 
+ .text$mn       0x00000000004058e0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetCurrentPrivilegeLevel64.obj)
+                0x00000000004058e0                __cdeGetCurrentPrivilegeLevel
+ .text$mn       0x00000000004058e8        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemFree.obj)
+                0x00000000004058e8                _osifLinuxMemFree
+ *fill*         0x00000000004058eb        0x1 
+ .text$mn       0x00000000004058ec       0x8c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+                0x00000000004058ec                _osifLinuxMemAlloc
+ .text$mn       0x0000000000405978        0x6 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTscPerSec.obj)
+                0x0000000000405978                _osifLinuxGetTscPerSec
+ *fill*         0x000000000040597e        0x2 
+ .text$mn       0x0000000000405980       0x85 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+                0x0000000000405980                _osifLinuxGetTsc
+ *fill*         0x0000000000405a05        0x3 
+ .text$mn       0x0000000000405a08       0x40 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+                0x0000000000405a08                _osifLinuxGetTime
+ .text$mn       0x0000000000405a48        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetEnv.obj)
+                0x0000000000405a48                _osifLinuxGetEnv
+ .text$mn       0x0000000000405a50       0x44 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+                0x0000000000405a50                _osifLinuxFileWrite
+ .text$mn       0x0000000000405a94       0x8d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+                0x0000000000405a94                _osifLinuxFileSetPos
+ *fill*         0x0000000000405b21        0x3 
+ .text$mn       0x0000000000405b24      0x148 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+                0x0000000000405b24                _osifLinuxFileRename
+ .text$mn       0x0000000000405c6c       0x41 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+                0x0000000000405c6c                _osifLinuxFileRead
+ *fill*         0x0000000000405cad        0x3 
+ .text$mn       0x0000000000405cb0       0xd9 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000405cb0                _osifLinuxFileOpen
+ *fill*         0x0000000000405d89        0x3 
+ .text$mn       0x0000000000405d8c       0x3d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+                0x0000000000405d8c                _osifLinuxFileDelete
+ *fill*         0x0000000000405dc9        0x3 
+ .text$mn       0x0000000000405dcc       0x41 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+                0x0000000000405dcc                _osifLinuxFileClose
+ *fill*         0x0000000000405e0d        0x3 
+ .text$mn       0x0000000000405e10       0x1c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/WcsLenCDEABI.obj)
+ .text$mn       0x0000000000405e2c       0x2d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+                0x0000000000405e2c                _localtime64
+                0x0000000000405e54                localtime
+ *fill*         0x0000000000405e59        0x3 
+ .text$mn       0x0000000000405e5c       0x15 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrLenCDEABI.obj)
+ *fill*         0x0000000000405e71        0x3 
+ .text$mn       0x0000000000405e74       0x3a /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+ *fill*         0x0000000000405eae        0x2 
+ .text$mn       0x0000000000405eb0       0x16 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+                0x0000000000405eb0                memset
+ *fill*         0x0000000000405ec6        0x2 
+ .text$mn       0x0000000000405ec8       0x59 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+                0x0000000000405ec8                _cdeAbort
+ *fill*         0x0000000000405f21        0x3 
+ .text$mn       0x0000000000405f24       0x42 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/wcstombsCDEABI.obj)
+ *fill*         0x0000000000405f66        0x2 
+ .text$mn       0x0000000000405f68        0xe /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdereallocCORE.obj)
+                0x0000000000405f68                __cdereallocCORE
+ *fill*         0x0000000000405f76        0x2 
+ .text$mn       0x0000000000405f78       0x69 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+ *fill*         0x0000000000405fe1        0x3 
+ .text$mn       0x0000000000405fe4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj)
+ .text$mn       0x0000000000405ff0       0x16 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+ *fill*         0x0000000000406006        0x2 
+ .text$mn       0x0000000000406008       0x74 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+ .text$mn       0x000000000040607c        0x5 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBufferCORE.obj)
+                0x000000000040607c                __cdeGetIOBufferCORE
+ *fill*         0x0000000000406081        0x3 
+ .text$mn       0x0000000000406084       0x5d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+                0x0000000000406084                __cdeIsFilePointerCORE
+ *fill*         0x00000000004060e1        0x3 
+ .text$mn       0x00000000004060e4       0x3e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+                0x00000000004060e4                __cdeOffsetCdeFposType
+ *fill*         0x0000000000406122        0x2 
+ .text$mn       0x0000000000406124       0x2f /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+                0x0000000000406124                __cdeBiasCdeFposType
+ *fill*         0x0000000000406153        0x1 
+ .text$mn       0x0000000000406154      0x124 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+                0x0000000000406154                vfprintf
+ .text$mn       0x0000000000406278       0x1c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+                0x0000000000406278                __cderewindCORE
+ .text$mn       0x0000000000406294       0x3e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+ *fill*         0x00000000004062d2        0x2 
+ .text$mn       0x00000000004062d4       0x35 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+                0x00000000004062d4                fputc
+ *fill*         0x0000000000406309        0x3 
+ .text$mn       0x000000000040630c       0x22 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+ *fill*         0x000000000040632e        0x2 
+ .text$mn       0x0000000000406330        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigIgn.obj)
+                0x0000000000406330                _cdeSigIgn
+ *fill*         0x0000000000406333        0x1 
+ .text$mn       0x0000000000406334       0x23 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSig2idx.obj)
+                0x0000000000406334                _cdeSig2idx
+ *fill*         0x0000000000406357        0x1 
+ .text$mn       0x0000000000406358        0xd /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_dsign.obj)
+                0x0000000000406358                _dsign
+ *fill*         0x0000000000406365        0x3 
+ .text$mn       0x0000000000406368       0x1d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+                0x0000000000406368                __cdeOnErrSet_errnoCORE
+ *fill*         0x0000000000406385        0x3 
+ .text$mn       0x0000000000406388       0x11 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCORE.obj)
+                0x0000000000406388                _errnoCORE
+ *fill*         0x0000000000406399        0x3 
+ .text$mn       0x000000000040639c       0x21 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+ *fill*         0x00000000004063bd        0x3 
+ .text$mn       0x00000000004063c0       0x21 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+                0x00000000004063c0                _errno
+ *fill*         0x00000000004063e1        0x3 
+ .text$mn       0x00000000004063e4       0x28 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+ .text$mn       0x000000000040640c       0x16 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isspaceCDEABI.obj)
+ *fill*         0x0000000000406422        0x2 
+ .text$mn       0x0000000000406424       0x11 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isdigitCDEABI.obj)
+ *fill*         0x0000000000406435        0x3 
+ .text$mn       0x0000000000406438       0x4d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+                0x0000000000406438                _cdeCoreSprintf
+ *fill*         0x0000000000406485        0x3 
+ .text$mn       0x0000000000406488        0x7 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeOUTByte.obj)
+                0x0000000000406488                _cdeOUTByte
+ *fill*         0x000000000040648f        0x1 
+ .text$mn       0x0000000000406490        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeMemPutChar.obj)
+                0x0000000000406490                _CdeMemPutChar
+ .text$mn       0x000000000040649c        0x5 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeINByte.obj)
+                0x000000000040649c                _cdeINByte
+ *fill*         0x00000000004064a1        0x3 
+ .text$mn       0x00000000004064a4       0x1d /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_funcCORE.obj)
+                0x00000000004064a4                __acrt_iob_funcCORE
+ *fill*         0x00000000004064c1        0xf 
+ .text$mn       0x00000000004064d0       0xb1 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/longjmp64CDEINTRINABI.obj)
+                0x00000000004064d0                longjmp
+                0x0000000000406579                __imp_longjmp
+                0x0000000000406581                __cdeLONGJMPCDEINTRINABIAnchor
+ *fill*         0x0000000000406581        0xf 
+ .text$mn       0x0000000000406590       0x34 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_syscall64.obj)
+                0x0000000000406590                _syscall
+ .text$mn       0x00000000004065c4      0x118 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+                0x00000000004065c4                _cdeGmltime
+ .text$mn       0x00000000004066dc      0x102 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+                0x00000000004066dc                _cdeDay2Greg
+ *fill*         0x00000000004067de        0x2 
+ .text$mn       0x00000000004067e0       0x41 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+                0x000000000040681c                _cdeREALLOCCDEABI
+ *fill*         0x0000000000406821        0x3 
+ .text$mn       0x0000000000406824       0x25 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+ *fill*         0x0000000000406849        0x3 
+ .text$mn       0x000000000040684c       0x12 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsCdeFposType.obj)
+                0x000000000040684c                __cdeIsCdeFposType
+ *fill*         0x000000000040685e        0x2 
+ .text$mn       0x0000000000406860      0x125 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+ *fill*         0x0000000000406985        0x3 
+ .text$mn       0x0000000000406988       0x3e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+                0x0000000000406988                fwrite
+ *fill*         0x00000000004069c6        0x2 
+ .text$mn       0x00000000004069c8       0x36 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+ *fill*         0x00000000004069fe        0x2 
+ .text$mn       0x0000000000406a00       0x7b /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGreg2Day.obj)
+                0x0000000000406a00                _cdeGreg2Day
+
+.fini
+ *(SORT_NONE(.fini))
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000407000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000407000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+
+.xdata          0x0000000000407000      0x3cc
+ .xdata         0x0000000000407000        0x8 /mnt/b/toroCLibrary4Linux/helloLinux.obj
+ .xdata         0x0000000000407008       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .xdata         0x0000000000407028        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .xdata         0x0000000000407030       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+ .xdata         0x0000000000407040        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+ .xdata         0x0000000000407048        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+ .xdata         0x0000000000407050        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+ .xdata         0x000000000040705c       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+ .xdata         0x0000000000407070       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+ .xdata         0x0000000000407084        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .xdata         0x0000000000407090        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .xdata         0x0000000000407098       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .xdata         0x00000000004070b0       0x1c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .xdata         0x00000000004070cc       0x20 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x00000000004070ec        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x00000000004070f4        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x00000000004070fc        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x0000000000407104        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x000000000040710c       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x0000000000407120        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x000000000040712c       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x000000000040713c       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .xdata         0x0000000000407154       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+ .xdata         0x0000000000407164       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+ .xdata         0x000000000040717c       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ .xdata         0x0000000000407194       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+ .xdata         0x00000000004071ac       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+ .xdata         0x00000000004071c0       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+ .xdata         0x00000000004071d8       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+ .xdata         0x00000000004071e8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+ .xdata         0x00000000004071f0       0x18 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+ .xdata         0x0000000000407208        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+ .xdata         0x0000000000407210        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+ .xdata         0x000000000040721c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+ .xdata         0x0000000000407228        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+ .xdata         0x0000000000407234       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+ .xdata         0x0000000000407244        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+ .xdata         0x0000000000407250        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+ .xdata         0x0000000000407258        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+ .xdata         0x0000000000407260        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+ .xdata         0x0000000000407268       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+ .xdata         0x0000000000407278       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+ .xdata         0x0000000000407288        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+ .xdata         0x0000000000407290       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+ .xdata         0x00000000004072a0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+ .xdata         0x00000000004072a8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+ .xdata         0x00000000004072b0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+ .xdata         0x00000000004072b8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+ .xdata         0x00000000004072c4        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+ .xdata         0x00000000004072cc        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+ .xdata         0x00000000004072d8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+ .xdata         0x00000000004072e0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+ .xdata         0x00000000004072ec       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+ .xdata         0x00000000004072fc        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+ .xdata         0x0000000000407304        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+ .xdata         0x0000000000407310       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+ .xdata         0x0000000000407324        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+ .xdata         0x000000000040732c       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+ .xdata         0x000000000040733c        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+ .xdata         0x0000000000407344        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+ .xdata         0x000000000040734c        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+ .xdata         0x0000000000407354        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+ .xdata         0x000000000040735c        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+ .xdata         0x0000000000407364        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+ .xdata         0x000000000040736c        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+ .xdata         0x0000000000407374        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+ .xdata         0x0000000000407380        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+ .xdata         0x000000000040738c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+ .xdata         0x0000000000407398        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+ .xdata         0x00000000004073a0       0x14 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+ .xdata         0x00000000004073b4       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+ .xdata         0x00000000004073c4        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+
+.pdata          0x00000000004073cc      0x384
+ .pdata         0x00000000004073cc        0xc /mnt/b/toroCLibrary4Linux/helloLinux.obj
+ .pdata         0x00000000004073d8       0x30 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .pdata         0x0000000000407408        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .pdata         0x0000000000407414        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+ .pdata         0x0000000000407420        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+ .pdata         0x000000000040742c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+ .pdata         0x0000000000407438        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+ .pdata         0x0000000000407444        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+ .pdata         0x0000000000407450        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+ .pdata         0x000000000040745c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .pdata         0x0000000000407468        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .pdata         0x0000000000407474        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .pdata         0x0000000000407480        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .pdata         0x000000000040748c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x0000000000407498        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074a4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074b0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074bc        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074c8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074d4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074e0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074ec        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .pdata         0x00000000004074f8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+ .pdata         0x0000000000407504        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+ .pdata         0x0000000000407510        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ .pdata         0x000000000040751c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+ .pdata         0x0000000000407528        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+ .pdata         0x0000000000407534        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+ .pdata         0x0000000000407540        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+ .pdata         0x000000000040754c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+ .pdata         0x0000000000407558        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+ .pdata         0x0000000000407564        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+ .pdata         0x0000000000407570        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+ .pdata         0x000000000040757c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+ .pdata         0x0000000000407588        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+ .pdata         0x0000000000407594        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+ .pdata         0x00000000004075a0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+ .pdata         0x00000000004075ac        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+ .pdata         0x00000000004075b8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+ .pdata         0x00000000004075c4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+ .pdata         0x00000000004075d0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+ .pdata         0x00000000004075dc        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+ .pdata         0x00000000004075e8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+ .pdata         0x00000000004075f4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+ .pdata         0x0000000000407600        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+ .pdata         0x000000000040760c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+ .pdata         0x0000000000407618        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+ .pdata         0x0000000000407624        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+ .pdata         0x0000000000407630        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+ .pdata         0x000000000040763c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+ .pdata         0x0000000000407648        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+ .pdata         0x0000000000407654        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+ .pdata         0x0000000000407660        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+ .pdata         0x000000000040766c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+ .pdata         0x0000000000407678        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+ .pdata         0x0000000000407684        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+ .pdata         0x0000000000407690        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+ .pdata         0x000000000040769c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+ .pdata         0x00000000004076a8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+ .pdata         0x00000000004076b4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+ .pdata         0x00000000004076c0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+ .pdata         0x00000000004076cc        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+ .pdata         0x00000000004076d8        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+ .pdata         0x00000000004076e4        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+ .pdata         0x00000000004076f0        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+ .pdata         0x00000000004076fc        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+ .pdata         0x0000000000407708        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+ .pdata         0x0000000000407714        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+ .pdata         0x0000000000407720        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+ .pdata         0x000000000040772c        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+ .pdata         0x0000000000407738        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+ .pdata         0x0000000000407744        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+
+.rodata1
+ *(.rodata1)
+
+.rdata          0x0000000000407750      0x3a6
+ *(SORT_BY_NAME(.CRT$X*))
+ .CRT$XCA       0x0000000000407750        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407750                __xc_a
+ .CRT$XCZ       0x0000000000407758        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407758                __xc_z
+ .CRT$XIA       0x0000000000407760        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407760                __xi_a
+ .CRT$XIZ       0x0000000000407768        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407768                __xi_z
+ .CRT$XPA       0x0000000000407770        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407770                __xp_a
+ .CRT$XPZ       0x0000000000407778        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407778                __xp_z
+ .CRT$XTA       0x0000000000407780        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407780                __xt_a
+ .CRT$XTZ       0x0000000000407788        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407788                __xt_z
+ .rdata         0x0000000000407790        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000407790                ??_C@_01GFHCPBMG@C@
+ *fill*         0x0000000000407792        0x2 
+ .rdata         0x0000000000407794        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+                0x0000000000407794                ??_C@_01LFCBOECM@?4@
+ .rdata         0x0000000000407796        0x1 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+                0x0000000000407796                ??_C@_00CNPNBAHC@@
+ *fill*         0x0000000000407797        0x1 
+ .rdata         0x0000000000407798        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+                0x0000000000407798                ??_C@_13JOFGPIOO@?$AA?4@
+ .rdata         0x000000000040779c        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+                0x000000000040779c                ??_C@_11LOCGONAA@@
+ *fill*         0x000000000040779e        0x2 
+ .rdata         0x00000000004077a0        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077a0                ??_C@_01JOAMLHOP@?9@
+ *fill*         0x00000000004077a2        0x2 
+ .rdata         0x00000000004077a4        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077a4                ??_C@_01MIFGBAGJ@?$CL@
+ *fill*         0x00000000004077a6        0x2 
+ .rdata         0x00000000004077a8        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077a8                ??_C@_02MDDDDAID@0x@
+ *fill*         0x00000000004077ab        0x1 
+ .rdata         0x00000000004077ac        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077ac                ??_C@_02FGLHBECB@0X@
+ *fill*         0x00000000004077af        0x1 
+ .rdata         0x00000000004077b0        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077b0                ??_C@_01GBGANLPD@0@
+ *fill*         0x00000000004077b2        0x6 
+ .rdata         0x00000000004077b8       0x31 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077b8                ??_C@_0DB@NHMBHPIK@?$CF08X?9?$CF04X?9?$CF04X?9?$CF02X?$CF02X?9?$CF02X?$CF02@
+ *fill*         0x00000000004077e9        0x7 
+ .rdata         0x00000000004077f0       0x31 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004077f0                ??_C@_0DB@PMLHLBMO@?$CF08x?9?$CF04x?9?$CF04x?9?$CF02x?$CF02x?9?$CF02x?$CF02@
+ *fill*         0x0000000000407821        0x7 
+ .rdata         0x0000000000407828       0x1a /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407828                ??_C@_0BK@FCPKCIDD@?$CF02d?1?$CF02d?1?$CF04d?5?5?$CF02d?3?$CF02d@
+ *fill*         0x0000000000407842        0x2 
+ .rdata         0x0000000000407844        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407844                ??_C@_03GOAGKKNE@?$CFqX@
+ .rdata         0x0000000000407848        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407848                ??_C@_07PBILKAFL@Success@
+ .rdata         0x0000000000407850        0xb /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407850                ??_C@_0L@PLPBEPPC@Load?5Error@
+ *fill*         0x000000000040785b        0x5 
+ .rdata         0x0000000000407860       0x12 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407860                ??_C@_0BC@HOFHKGJN@Invalid?5Parameter@
+ *fill*         0x0000000000407872        0x6 
+ .rdata         0x0000000000407878        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407878                ??_C@_0M@BEECMOIL@Unsupported@
+ *fill*         0x0000000000407884        0x4 
+ .rdata         0x0000000000407888       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407888                ??_C@_0BA@FLNMPMCF@Bad?5Buffer?5Size@
+ .rdata         0x0000000000407898       0x11 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407898                ??_C@_0BB@EGELJFOB@Buffer?5Too?5Small@
+ *fill*         0x00000000004078a9        0x7 
+ .rdata         0x00000000004078b0        0xa /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004078b0                ??_C@_09NKFGCIPN@Not?5Ready@
+ *fill*         0x00000000004078ba        0x6 
+ .rdata         0x00000000004078c0        0xd /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004078c0                ??_C@_0N@HHEABDHO@Device?5Error@
+ *fill*         0x00000000004078cd        0x3 
+ .rdata         0x00000000004078d0       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004078d0                ??_C@_0BA@LNEDDFNB@Write?5Protected@
+ .rdata         0x00000000004078e0       0x11 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004078e0                ??_C@_0BB@GOILNEAA@Out?5of?5Resources@
+ *fill*         0x00000000004078f1        0x7 
+ .rdata         0x00000000004078f8        0xf /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004078f8                ??_C@_0P@EIOJGIF@Volume?5Corrupt@
+ *fill*         0x0000000000407907        0x1 
+ .rdata         0x0000000000407908        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407908                ??_C@_0M@HDLEPOFA@Volume?5Full@
+ *fill*         0x0000000000407914        0x4 
+ .rdata         0x0000000000407918        0x9 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407918                ??_C@_08KEGAJDNN@No?5Media@
+ *fill*         0x0000000000407921        0x7 
+ .rdata         0x0000000000407928        0xe /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407928                ??_C@_0O@JNCJKCCD@Media?5changed@
+ *fill*         0x0000000000407936        0x2 
+ .rdata         0x0000000000407938        0xa /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407938                ??_C@_09CFCBFJND@Not?5Found@
+ *fill*         0x0000000000407942        0x6 
+ .rdata         0x0000000000407948        0xe /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407948                ??_C@_0O@NFHOBIDO@Access?5Denied@
+ *fill*         0x0000000000407956        0x2 
+ .rdata         0x0000000000407958        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407958                ??_C@_0M@ENKCBFEP@No?5Response@
+ *fill*         0x0000000000407964        0x4 
+ .rdata         0x0000000000407968        0xb /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407968                ??_C@_0L@IFPBNFC@No?5mapping@
+ *fill*         0x0000000000407973        0x5 
+ .rdata         0x0000000000407978        0x9 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407978                ??_C@_08PAFJCNGP@Time?5out@
+ *fill*         0x0000000000407981        0x7 
+ .rdata         0x0000000000407988        0xc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407988                ??_C@_0M@DCJFAFHJ@Not?5started@
+ *fill*         0x0000000000407994        0x4 
+ .rdata         0x0000000000407998       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407998                ??_C@_0BA@IGIBFFPH@Already?5started@
+ .rdata         0x00000000004079a8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004079a8                ??_C@_07LCKDCBKK@Aborted@
+ .rdata         0x00000000004079b0        0xb /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004079b0                ??_C@_0L@LKIFCMNO@ICMP?5Error@
+ *fill*         0x00000000004079bb        0x5 
+ .rdata         0x00000000004079c0        0xb /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004079c0                ??_C@_0L@DJKNJKHM@TFTP?5Error@
+ *fill*         0x00000000004079cb        0x5 
+ .rdata         0x00000000004079d0        0xf /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004079d0                ??_C@_0P@NCJHBCLM@Protocol?5Error@
+ *fill*         0x00000000004079df        0x1 
+ .rdata         0x00000000004079e0       0x16 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004079e0                ??_C@_0BG@CFJMNNJK@Warning?5Unknown?5Glyph@
+ *fill*         0x00000000004079f6        0x2 
+ .rdata         0x00000000004079f8       0x17 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x00000000004079f8                ??_C@_0BH@GKKCJEPJ@Warning?5Delete?5Failure@
+ *fill*         0x0000000000407a0f        0x1 
+ .rdata         0x0000000000407a10       0x16 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407a10                ??_C@_0BG@ECIJMOED@Warning?5Write?5Failure@
+ *fill*         0x0000000000407a26        0x2 
+ .rdata         0x0000000000407a28       0x19 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407a28                ??_C@_0BJ@ODIPDGHB@Warning?5Buffer?5Too?5Small@
+ *fill*         0x0000000000407a41        0x7 
+ .rdata         0x0000000000407a48        0xe /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407a48                ??_C@_1O@CEDCILHN@?$AA?$CI?$AAn?$AAu?$AAl?$AAl?$AA?$CJ@
+ *fill*         0x0000000000407a56        0x2 
+ .rdata         0x0000000000407a58        0x7 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+                0x0000000000407a58                ??_C@_06OJHGLDPL@?$CInull?$CJ@
+ *fill*         0x0000000000407a5f        0x1 
+ .rdata         0x0000000000407a60       0x24 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+                0x0000000000407a60                ??_C@_0CE@NLPNMFHG@invalid?5parameter?3?5?$CFS?$CI?$CFd?$CJ?5?$CFS?$CI?$CJ?5@
+ *fill*         0x0000000000407a84        0x4 
+ .rdata         0x0000000000407a88       0x13 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+                0x0000000000407a88                ??_C@_0BD@NEDHKJBG@invalid?5parameter?6@
+ *fill*         0x0000000000407a9b        0x1 
+ .rdata         0x0000000000407a9c        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407a9c                ??_C@_01KDCPPGHE@r@
+ *fill*         0x0000000000407a9e        0x2 
+ .rdata         0x0000000000407aa0        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407aa0                ??_C@_02JDPG@rb@
+ *fill*         0x0000000000407aa3        0x1 
+ .rdata         0x0000000000407aa4        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407aa4                ??_C@_02CBLLGHLK@r?$CL@
+ *fill*         0x0000000000407aa7        0x1 
+ .rdata         0x0000000000407aa8        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407aa8                ??_C@_03HMFOOINA@r?$CLb@
+ .rdata         0x0000000000407aac        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407aac                ??_C@_03CCKOKKND@rb?$CL@
+ .rdata         0x0000000000407ab0        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ab0                ??_C@_01NOFIACDB@w@
+ *fill*         0x0000000000407ab2        0x2 
+ .rdata         0x0000000000407ab4        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ab4                ??_C@_02GMLFBBN@wb@
+ *fill*         0x0000000000407ab7        0x1 
+ .rdata         0x0000000000407ab8        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ab8                ??_C@_02CHHAKFFB@w?$CL@
+ *fill*         0x0000000000407abb        0x1 
+ .rdata         0x0000000000407abc        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407abc                ??_C@_03ELIABIOC@w?$CLb@
+ .rdata         0x0000000000407ac0        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ac0                ??_C@_03BFHAFKOB@wb?$CL@
+ .rdata         0x0000000000407ac4        0x2 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ac4                ??_C@_01MCMALHOG@a@
+ *fill*         0x0000000000407ac6        0x2 
+ .rdata         0x0000000000407ac8        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ac8                ??_C@_02BOGAIONP@ab@
+ *fill*         0x0000000000407acb        0x1 
+ .rdata         0x0000000000407acc        0x3 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407acc                ??_C@_02DPNLHKJD@a?$CL@
+ *fill*         0x0000000000407acf        0x1 
+ .rdata         0x0000000000407ad0        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ad0                ??_C@_03DOPCBAKB@a?$CLb@
+ .rdata         0x0000000000407ad4        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+                0x0000000000407ad4                ??_C@_03GAACFCKC@ab?$CL@
+ .rdata         0x0000000000407ad8       0x1e /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+                0x0000000000407ad8                ??_C@_0BO@ICHKIABJ@abnormal?5program?5termination?6@
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000408af6                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata          0x0000000000408af6        0x0
+                [!provide]                        PROVIDE (__tdata_start = .)
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array  0x0000000000408af6        0x0
+                [!provide]                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000000000408af6        0x0
+                [!provide]                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+                [!provide]                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000000408af6        0x0
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+                [!provide]                        PROVIDE (__fini_array_end = .)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+                0x0000000000408af6                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000408af6        0x0
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000408b00      0xa58
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000408b00        0xf /mnt/b/toroCLibrary4Linux/helloLinux.obj
+ *fill*         0x0000000000408b0f        0x1 
+ .data          0x0000000000408b10        0x0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPoint.obj)
+ .data          0x0000000000408b10      0x7b0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x0000000000408b10                gCdeServicesLinux
+                0x0000000000408cb0                CdeAppIfLinux
+ .data          0x00000000004092c0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+                0x00000000004092c0                __imp_fwrite
+ .data          0x00000000004092c8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+                0x00000000004092c8                __imp_fgetc
+ .data          0x00000000004092d0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+                0x00000000004092d0                __imp_raise
+ *fill*         0x00000000004092d8        0x8 
+ .data          0x00000000004092e0       0xb0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+                0x00000000004092e0                _cdeLconv_C
+                0x0000000000409378                _cdeCLocale
+ .data          0x0000000000409390        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ *fill*         0x0000000000409394        0x4 
+ .data          0x0000000000409398        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+                0x0000000000409398                pinvalid_parameter_handlerCDEABI
+ .data          0x00000000004093a0        0x4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_fltused.obj)
+                0x00000000004093a0                _fltused
+ *fill*         0x00000000004093a4        0xc 
+ .data          0x00000000004093b0        0x0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetCurrentPrivilegeLevel64.obj)
+ .data          0x00000000004093b0       0xf0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+ .data          0x00000000004094a0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/WcsLenCDEABI.obj)
+                0x00000000004094a0                __imp_wcslen
+ .data          0x00000000004094a8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrLenCDEABI.obj)
+                0x00000000004094a8                __imp_strlen
+ .data          0x00000000004094b0       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+                0x00000000004094b8                __imp_strcmp
+ .data          0x00000000004094c0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+                0x00000000004094c0                __imp_memset
+ .data          0x00000000004094c8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/wcstombsCDEABI.obj)
+                0x00000000004094c8                __imp_wcstombs
+ .data          0x00000000004094d0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+                0x00000000004094d0                __imp__exit
+ .data          0x00000000004094d8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj)
+                0x00000000004094d8                __imp_malloc
+ .data          0x00000000004094e0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+                0x00000000004094e0                __imp_free
+ .data          0x00000000004094e8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+                0x00000000004094e8                __imp_abort
+ .data          0x00000000004094f0        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+                0x00000000004094f0                __imp_fread
+ .data          0x00000000004094f8        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+                0x00000000004094f8                __imp_fprintf
+ .data          0x0000000000409500        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSig2idx.obj)
+ .data          0x0000000000409508        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+                0x0000000000409508                __imp__errno
+ .data          0x0000000000409510        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+                0x0000000000409510                __imp_isxdigit
+ .data          0x0000000000409518        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isspaceCDEABI.obj)
+                0x0000000000409518                __imp_isspace
+ .data          0x0000000000409520        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isdigitCDEABI.obj)
+                0x0000000000409520                __imp_isdigit
+ .data          0x0000000000409528        0x7 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+ *fill*         0x000000000040952f        0x1 
+ .data          0x0000000000409530        0x0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/longjmp64CDEINTRINABI.obj)
+ .data          0x0000000000409530        0x0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_syscall64.obj)
+ .data          0x0000000000409530       0x10 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+                0x0000000000409530                __imp__cdeREALLOC
+                0x0000000000409538                __imp_realloc
+ .data          0x0000000000409540        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+                0x0000000000409540                __imp_exit
+ .data          0x0000000000409548        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+                0x0000000000409548                __imp_vfprintf
+ .data          0x0000000000409550        0x8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+                0x0000000000409550                __imp_fputc
+
+.data1
+ *(.data1)
+                0x0000000000409558                _edata = .
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000409558                . = .
+                0x0000000000409558                __bss_start = .
+
+.bss            0x0000000000409560     0xa628
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000409560     0x2611 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+                0x000000000040b560                gCdeAppIfLinux
+ *fill*         0x000000000040bb71        0xf 
+ .bss           0x000000000040bb80     0x8001 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetEnv.obj)
+ .bss           0x0000000000413b81        0x1 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_gCdeCfgCmdLnParmReportStatusCodeSTDOUT.obj)
+                0x0000000000413b81                _gCdeCfgCmdLnParmReportStatusCodeSTDOUT
+ *(COMMON)
+ *fill*         0x0000000000413b82        0x2 
+ COMMON         0x0000000000413b84        0x1 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+                0x0000000000413b84                __cdeMemSetCDEINTRINABIAnchor
+                0x0000000000413b88                . = ALIGN ((. != 0x0)?0x8:0x1)
+ *fill*         0x0000000000413b85        0x3 
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000413b88                . = ALIGN (0x8)
+                0x0000000000413b88                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000415b88        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000415b88                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000415b88                . = ALIGN (0x8)
+                0x0000000000413b88                _end = .
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000415b88                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line .debug_line.* .debug_line_end)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+LOAD /mnt/b/toroCLibrary4Linux/helloLinux.obj
+LOAD /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib
+OUTPUT(/mnt/b/toroCLibrary4Linux/helloLinux.elf elf64-x86-64)
+
+.debug$S        0x0000000000000000     0x3f18
+ .debug$S       0x0000000000000000       0x78 /mnt/b/toroCLibrary4Linux/helloLinux.obj
+ .debug$S       0x0000000000000078      0x26c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPoint.obj)
+ .debug$S       0x00000000000002e4       0xa4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPointIntern.obj)
+ .debug$S       0x0000000000000388       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBuffer.obj)
+ .debug$S       0x0000000000000424       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FwriteCDEABI.obj)
+ .debug$S       0x00000000000004bc       0x90 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fprintf.obj)
+ .debug$S       0x000000000000054c       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FgetcCDEABI.obj)
+ .debug$S       0x00000000000005e0       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigDfl.obj)
+ .debug$S       0x0000000000000674       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/raiseCDEABI.obj)
+ .debug$S       0x0000000000000708       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCLocale_.obj)
+ .debug$S       0x00000000000007a0       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreWcsStrTok.obj)
+ .debug$S       0x000000000000083c       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeWcsStrPbrkSpn.obj)
+ .debug$S       0x00000000000008d8       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxScanf.obj)
+ .debug$S       0x0000000000000974       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreVwxPrintf.obj)
+ .debug$S       0x0000000000000a10       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCpy.obj)
+ .debug$S       0x0000000000000aa8       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeMemStrxCmp.obj)
+ .debug$S       0x0000000000000b40       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreMemRealloc.obj)
+ .debug$S       0x0000000000000bdc       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFwrite.obj)
+ .debug$S       0x0000000000000c74       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFsetpos.obj)
+ .debug$S       0x0000000000000d0c       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFread.obj)
+ .debug$S       0x0000000000000da4       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreFflush.obj)
+ .debug$S       0x0000000000000e3c       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeUMUL128.obj)
+ .debug$S       0x0000000000000ed0       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgPutChar.obj)
+ .debug$S       0x0000000000000f68       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMSend.obj)
+ .debug$S       0x0000000000001000       0xa0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMReady2Send.obj)
+ .debug$S       0x00000000000010a0       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeDbgCOMInit.obj)
+ .debug$S       0x0000000000001138       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_func.obj)
+ .debug$S       0x00000000000011d0       0xac /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_invalid_parameter_handlerCDEABI.obj)
+ .debug$S       0x000000000000127c       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_fltused.obj)
+ .debug$S       0x0000000000001310      0x290 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetCurrentPrivilegeLevel64.obj)
+ .debug$S       0x00000000000015a0       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemFree.obj)
+ .debug$S       0x000000000000163c       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxMemAlloc.obj)
+ .debug$S       0x00000000000016d8       0xa0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTscPerSec.obj)
+ .debug$S       0x0000000000001778       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTsc.obj)
+ .debug$S       0x0000000000001810       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetTime.obj)
+ .debug$S       0x00000000000018ac       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxGetEnv.obj)
+ .debug$S       0x0000000000001944       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileWrite.obj)
+ .debug$S       0x00000000000019e0       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileSetPos.obj)
+ .debug$S       0x0000000000001a7c       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRename.obj)
+ .debug$S       0x0000000000001b18       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileRead.obj)
+ .debug$S       0x0000000000001bb4       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileOpen.obj)
+ .debug$S       0x0000000000001c50       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileDelete.obj)
+ .debug$S       0x0000000000001cec       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxFileClose.obj)
+ .debug$S       0x0000000000001d88       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/WcsLenCDEABI.obj)
+ .debug$S       0x0000000000001e20       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/localtime.obj)
+ .debug$S       0x0000000000001eb4       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrLenCDEABI.obj)
+ .debug$S       0x0000000000001f4c       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/StrCmpCDEABI.obj)
+ .debug$S       0x0000000000001fe4       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MemSetCDEINTRINABI.obj)
+ .debug$S       0x0000000000002080       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeAbort.obj)
+ .debug$S       0x0000000000002114       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/wcstombsCDEABI.obj)
+ .debug$S       0x00000000000021ac       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdereallocCORE.obj)
+ .debug$S       0x0000000000002248       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_exitCDEABI.obj)
+ .debug$S       0x00000000000022dc       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/MallocCDEABI.obj)
+ .debug$S       0x0000000000002374       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreeCDEABI.obj)
+ .debug$S       0x0000000000002408       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/abortCDEABI.obj)
+ .debug$S       0x000000000000249c       0xa0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdsGetIOBufferCORE.obj)
+ .debug$S       0x000000000000253c       0xa0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsFilePointerCORE.obj)
+ .debug$S       0x00000000000025dc       0xa4 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetOffsetCdeFposType.obj)
+ .debug$S       0x0000000000002680       0xa0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetBiasCdeFposType.obj)
+ .debug$S       0x0000000000002720       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Vfprintf.obj)
+ .debug$S       0x00000000000027b4       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cderewindCORE.obj)
+ .debug$S       0x000000000000284c       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FreadCDEABI.obj)
+ .debug$S       0x00000000000028e0       0x90 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fputc.obj)
+ .debug$S       0x0000000000002970       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FprintfCDEABI.obj)
+ .debug$S       0x0000000000002a08       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSigIgn.obj)
+ .debug$S       0x0000000000002a9c       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeSig2idx.obj)
+ .debug$S       0x0000000000002b30       0x90 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_dsign.obj)
+ .debug$S       0x0000000000002bc0       0xa0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeOnErrSet_errnoCORE.obj)
+ .debug$S       0x0000000000002c60       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCORE.obj)
+ .debug$S       0x0000000000002cf4       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errnoCDEABI.obj)
+ .debug$S       0x0000000000002d88       0x90 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/errno.obj)
+ .debug$S       0x0000000000002e18       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isxdigitCDEABI.obj)
+ .debug$S       0x0000000000002eb0       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isspaceCDEABI.obj)
+ .debug$S       0x0000000000002f48       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/isdigitCDEABI.obj)
+ .debug$S       0x0000000000002fe0       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeCoreSprintf.obj)
+ .debug$S       0x0000000000003078       0xb0 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_gCdeCfgCmdLnParmReportStatusCodeSTDOUT.obj)
+ .debug$S       0x0000000000003128       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeOUTByte.obj)
+ .debug$S       0x00000000000031bc       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_CdeMemPutChar.obj)
+ .debug$S       0x0000000000003254       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeINByte.obj)
+ .debug$S       0x00000000000032e8       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__acrt_iob_funcCORE.obj)
+ .debug$S       0x0000000000003384      0x390 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/longjmp64CDEINTRINABI.obj)
+ .debug$S       0x0000000000003714      0x2bc /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_syscall64.obj)
+ .debug$S       0x00000000000039d0       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGmltime.obj)
+ .debug$S       0x0000000000003a64       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeDay2Greg.obj)
+ .debug$S       0x0000000000003afc       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/ReallocCDEABI.obj)
+ .debug$S       0x0000000000003b94       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/exitCDEABI.obj)
+ .debug$S       0x0000000000003c28       0x9c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeIsCdeFposType.obj)
+ .debug$S       0x0000000000003cc4       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/VfprintfCDEABI.obj)
+ .debug$S       0x0000000000003d5c       0x90 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/Fwrite.obj)
+ .debug$S       0x0000000000003dec       0x94 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/FputcCDEABI.obj)
+ .debug$S       0x0000000000003e80       0x98 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_cdeGreg2Day.obj)
+
+.debug$T        0x0000000000000000      0x234
+ .debug$T       0x0000000000000000       0x24 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/osifLinuxEntryPoint.obj)
+ .debug$T       0x0000000000000024       0x1c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/__cdeGetCurrentPrivilegeLevel64.obj)
+ .debug$T       0x0000000000000040      0x1d8 /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/longjmp64CDEINTRINABI.obj)
+ .debug$T       0x0000000000000218       0x1c /mnt/b/toroCLibrary4Linux/LIB/toroC64.lib(x64/Release/_syscall64.obj)
